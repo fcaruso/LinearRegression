@@ -1,4 +1,4 @@
-# Linear Regression using gradient descent
+# Linear Regression using Gradient Descent
 Implementation of the gradient descent to solve [linear regression](https://en.wikipedia.org/wiki/Linear_regression) problems, 
 i.e. try to describe (approximate) a system using a linear model of the form X*theta = Y.
 - X matrix is the independent variable
